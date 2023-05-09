@@ -55,21 +55,21 @@ const Header = ({ headernumber }) => {
                         </ul>
                       </li>
                       <li className="dropdown">
-                        <Link href="/gallery">Gallary</Link>
+                        {/* <Link href="/gallery">Gallary</Link> */}
                         <ul>
                           <Room />
                         </ul>
                       </li>
                       <li>
-                        <Link href="/services">Services</Link>
+                        {/* <Link href="/services">Services</Link> */}
                       </li>
                       <li>
-                        <Link href="/about">About Us </Link>
+                        {/* <Link href="/about">About Us </Link> */}
                       </li>
                      
                       
                       <li>
-                        <Link href="/contact">Contact</Link>
+                        {/* <Link href="/contact">Contact</Link> */}
                       </li>
                       
                     </ul>
