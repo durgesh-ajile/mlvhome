@@ -250,7 +250,7 @@ const Index = () => {
             <div className="col-lg-6">
               <div className="block-four">
                 <div className="image">
-                  <img src="assets/images/building3edit.jpg" alt="" />
+                  <img src="assets/images/building3edit.JPG" alt="" />
                 </div>
                 <div className="inner-box">
                   {/* { <div className="pricing">$100 per day</div> } */}
