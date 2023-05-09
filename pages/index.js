@@ -36,7 +36,7 @@ const Index = () => {
                       PG
                     </h1>
                     <div className="link-box">
-                      <Link href="/gallery">
+                      <Link href="/">
                         <a className="theme-btn btn-style-one">
                           <span>View Our Rooms</span>
                         </a>
