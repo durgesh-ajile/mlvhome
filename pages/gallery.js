@@ -210,7 +210,7 @@ const Gallary = () => {
           <h2 className="sub-title text-center" style={{fontSize:'40px', marginBottom:'30px'}}>Watch the video and checkout yourself</h2>
           <div style={{display:'flex', justifyContent:'center'}}>
           {/* <iframe src="https://veed.io/embed/6bd659ff-8404-48db-bff2-3b4d4fadd916" width="360px" height="720px" frameborder="0" title="WhatsApp Video 2023-05-04 at 11.07.06 AM" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> */}
-          <iframe src="https://veed.io/embed/2f4480e3-f64a-487d-9611-3c2e544477d5" width="360px" height="720px" frameborder="0" title="MLV PG" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <iframe src="https://veed.io/embed/2f4480e3-f64a-487d-9611-3c2e544477d5" width="360px" height="720px" title="MLV PG" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
 
 

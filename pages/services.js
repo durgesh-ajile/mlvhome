@@ -197,8 +197,8 @@ const Services = () => {
         </div>
       </section>
 
-      <div class="contained">
-        <table class="rwd-table">
+      <div className="contained">
+        <table className="rwd-table">
           <tbody>
             <tr>
               <th>Days</th>
